@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitpage-prac/static/css/main.f855e6bc.css",
+    "main.js": "/gitpage-prac/static/js/main.998ee757.js",
+    "static/js/453.fa615119.chunk.js": "/gitpage-prac/static/js/453.fa615119.chunk.js",
+    "static/media/logo.svg": "/gitpage-prac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitpage-prac/index.html",
+    "main.f855e6bc.css.map": "/gitpage-prac/static/css/main.f855e6bc.css.map",
+    "main.998ee757.js.map": "/gitpage-prac/static/js/main.998ee757.js.map",
+    "453.fa615119.chunk.js.map": "/gitpage-prac/static/js/453.fa615119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.998ee757.js"
+  ]
+}
